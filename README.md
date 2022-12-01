@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 🌐 Site
 
-You can check the project with this link: https://event-creator.vercel.app
+You can check the project with this link: https://mentoring-inputs-9f1jumzpf-caioscg.vercel.app
 
 ## :memo: License
 
