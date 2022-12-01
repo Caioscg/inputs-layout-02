@@ -8,6 +8,8 @@ body {
     background-color: #E5E5E5;
 }
 
+/***--------------- HEADER DESIGN ---------------***/
+
 body::before {
     content: '';
     display: block;
@@ -48,6 +50,8 @@ header p {
     line-height: 30px;
     color: white;
 }
+
+/***--------------- FORM DESIGN ---------------***/
 
 form {
     margin-top: 58px;
@@ -96,6 +100,8 @@ span {
 span:hover {
     color: #8e8d8f;
 }
+
+/***--------------- INPUTS ---------------***/
 
 .input-wrapper {
     display: flex;
@@ -152,6 +158,8 @@ h2 {
 input:invalid {
     border: 1px solid #FF1010
 }
+
+/***--------------- SUBMIT BUTTON ---------------***/
 
 footer {
     background-color: #535971;
